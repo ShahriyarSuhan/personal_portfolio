@@ -1791,6 +1791,11 @@ main {
   background: var(--colorPrimary);
 }
 
+.barfiller{
+  border: 2px solid #55e6a5 ;
+  background: #55e6a5;
+}
+
 .tf__single_skill_2 .tf__team_skills_bar_single .tip::after {
   position: absolute;
   content: "";
